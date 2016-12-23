@@ -1,0 +1,10 @@
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\bin\Debug\BIATS.exe.config
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\bin\Debug\BIATS.exe
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\bin\Debug\BIATS.pdb
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.Form1.resources
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.Properties.Resources.resources
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.csproj.GenerateResource.Cache
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.exe
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.pdb
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.UserControl1.resources
+D:\cloudbox\CSharp\Appcation\BIATS\BIATS\obj\Debug\BIATS.csprojResolveAssemblyReference.cache
